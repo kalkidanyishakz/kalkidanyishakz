@@ -4,6 +4,7 @@ I’m currently learning python django. <br>
 <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30">
 </p>
 react, svelte, javascript, python 
 <h3>contact me</h3>
