@@ -5,6 +5,10 @@ I’m currently learning python django. <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30"  style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30"  style="margin-right: 10px;">
 </p>
+<p style="font-size: 12px;">
+  This is some text in a smaller font size.
+</p>
+
 <font size="2">javascript, svelte</font>
 <h3>skills</h3>
 <p float="left">
