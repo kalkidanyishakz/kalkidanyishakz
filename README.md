@@ -1,6 +1,9 @@
 I’m @kalkidanyishakz interested in web development in general. <br>
 I’m currently learning python django. <br>
 <h3>skills</h3>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="30">
+
 react, svelte, javascript, python 
 <h3>contact me</h3>
 <a href='https://t.me/kalkdn'>
