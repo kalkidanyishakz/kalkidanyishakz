@@ -1,5 +1,4 @@
-interested in web development in general. <br>
-I’m currently learning python django. <br>
+Interested in web development in general.
 
 <h4>Languages and tools</h4>
 <p float="left">
