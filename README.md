@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalkidanyishakz
 - 👀 I’m interested in web development in general
-- 🌱 I’m currently python django
+- 🌱 I’m currently learning python django
 - 💞️ I’m looking to collaborate on react, svelte, javascript, python
 - 📫 How to reach me telegram @kalkdn 
 
