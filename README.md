@@ -1,7 +1,8 @@
 interested in web development in general. <br>
 I’m currently learning python django. <br>
 <h3>languages</h3>
-<p float="left">
+
+- <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30"  style="margin-right: 10px;">
   <img src="data:image/jpeg;base64, LzlqLzRBQ... <!-- Base64 data -->" width="10"  style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30"  style="margin-right: 10px;">
