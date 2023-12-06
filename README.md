@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development in general
 - 🌱 I’m currently learning python django
 - 💞️ I’m looking to collaborate on react, svelte, javascript, python
-- 📫 How to reach me telegram @kalkdn 
+- 📫 How to reach me telegram [![Image Alt @kalkdn](image-url)](https://t.me/kalkdn) 
 
 <!---
 kalkidanyishakz/kalkidanyishakz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
