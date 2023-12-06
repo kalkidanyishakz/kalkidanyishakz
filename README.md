@@ -3,9 +3,11 @@ I’m currently learning python django. <br>
 <h3>languages</h3>
 <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30"  style="margin-right: 10px;">
-  <img src="data:image/jpeg;base64, LzlqLzRBQ... <!-- Base64 data -->" width="30"  style="margin-right: 10px;">
+  <img src="data:image/jpeg;base64, LzlqLzRBQ... <!-- Base64 data -->" width="10"  style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30"  style="margin-right: 10px;">
+  <img src="data:image/jpeg;base64, LzlqLzRBQ... <!-- Base64 data -->" width="10"  style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="30"  style="margin-right: 10px;">
+  <img src="data:image/jpeg;base64, LzlqLzRBQ... <!-- Base64 data -->" width="10"  style="margin-right: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="30"  style="margin-right: 10px;">
 </p>
 <h3>skills</h3>
