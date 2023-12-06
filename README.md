@@ -5,6 +5,12 @@ I’m currently learning python django. <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30"  style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30"  style="margin-right: 10px;">
 </p>
+
+<div style="display: flex; justify-content: space-between; padding: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30"  style="margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30"  style="margin-right: 10px;">
+</div>
+
 javascript, svelte
 <h3>skills</h3>
 <p float="left">
