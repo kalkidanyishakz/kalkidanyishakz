@@ -1,4 +1,4 @@
-I’m @kalkidanyishakz interested in web development in general. <br>
+interested in web development in general. <br>
 I’m currently learning python django. <br>
 <h3>languages</h3>
 <p float="left">
