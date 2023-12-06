@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning python django
 - 💞️ I’m looking to collaborate on react, svelte, javascript, python
 
-  
+  <a href='https://t.me/kalkdn'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30">
+  </a>
 
 
 <!---
