@@ -1,7 +1,7 @@
 interested in web development in general. <br>
 I’m currently learning python django. <br>
 
-<h4>Languages</h4>
+<h4>Languages and tools</h4>
 <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30"  style="margin-right: 10px;">
   <img src="data:image/jpeg;base64, LzlqLzRBQ... <!-- Base64 data -->" width="10"  style="margin-right: 10px;">
@@ -10,9 +10,7 @@ I’m currently learning python django. <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="30"  style="margin-right: 10px;">
   <img src="data:image/jpeg;base64, LzlqLzRBQ... <!-- Base64 data -->" width="10"  style="margin-right: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="30"  style="margin-right: 10px;">
-</p>
-<h4>Skills</h4>
-<p float="left">
+  <img src="data:image/jpeg;base64, LzlqLzRBQ... <!-- Base64 data -->" width="10"  style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="30">
   <img src="data:image/jpeg;base64, LzlqLzRBQ... <!-- Base64 data -->" width="10"  style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="30">
