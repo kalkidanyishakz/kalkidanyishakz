@@ -1,10 +1,10 @@
 I’m @kalkidanyishakz interested in web development in general. <br>
 I’m currently learning python django. <br>
 <h3>languages</h3>
-<p float="left">
+<div style="display: flex; justify-content: space-between; padding: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30">
-</p>
+</div>
 javascript, svelte
 <h3>skills</h3>
 <p float="left">
