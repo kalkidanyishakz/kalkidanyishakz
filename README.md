@@ -1,6 +1,6 @@
 I’m @kalkidanyishakz interested in web development in general. <br>
 I’m currently learning python django. <br>
-<h3>language</h3>
+<h3>languages</h3>
 <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30">
