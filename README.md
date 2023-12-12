@@ -8,7 +8,7 @@ Interested in web development in general.
   <img src="data:image/jpeg;base64, LzlqLzRBQ... <!-- Base64 data -->" width="10"  style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="30"  style="margin-right: 10px;">
   <img src="data:image/jpeg;base64, LzlqLzRBQ... <!-- Base64 data -->" width="10"  style="margin-right: 10px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="30"  style="margin-right: 10px;">
+  <img src="https://camo.githubusercontent.com/a7de91b915d8b286dda762e3683d9a1c961692d43f8349d020ecd54634a823cf/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67" width="30"  style="margin-right: 10px;">
   <img src="data:image/jpeg;base64, LzlqLzRBQ... <!-- Base64 data -->" width="10"  style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="30">
   <img src="data:image/jpeg;base64, LzlqLzRBQ... <!-- Base64 data -->" width="10"  style="margin-right: 10px;">
