@@ -16,7 +16,7 @@ Interested in web development in general.
   <img src="data:image/jpeg;base64, LzlqLzRBQ... <!-- Base64 data -->" width="10"  style="margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="30">
   <img src="data:image/jpeg;base64, LzlqLzRBQ... <!-- Base64 data -->" width="10"  style="margin-right: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40">
 </p>
 <h4>Contact me</h4>
 <p float="left">
